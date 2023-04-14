@@ -1,3 +1,4 @@
 #!/bi/bash
 echo "The school is open!"
 echo "The school is open!"
+echo 'The school is opne'
